@@ -1,7 +1,10 @@
 # project template
 
-内容が空のテンプレート。
-nodejsでライブリロード＆scssのbundle buildが出来る。
+内容が空のvueテンプレート。
+nodejsでwebpack serve & scss bundle buildが出来る。
+
+src/App.vueを編集する。
+cssはsrc/styles.scssを見ているが、App.vueに書いても問題ない。
 
 ## Building and running on localhost
 

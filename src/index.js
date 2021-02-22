@@ -1,4 +1,7 @@
-import "./styles.scss";
-import {Const} from "./modules/const";
+import Vue from 'vue';
+import App from './App';
 
-console.info('aaaeeeea', Const.ColorMaps[2]);
+new Vue({
+  el: '#app',
+  render: h => h(App),
+});
