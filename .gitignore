@@ -2,6 +2,7 @@
 .cache/
 coverage/
 public/bundle.js
+public/bundle.js.LICENSE.txt
 node_modules/
 *.log
 
